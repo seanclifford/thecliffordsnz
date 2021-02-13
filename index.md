@@ -1,4 +1,3 @@
-## The Cliffords' 
+## Content
 
-A homepage for a family in Christchurch, New Zealand.
-Content **TODO**.
+**TODO**
