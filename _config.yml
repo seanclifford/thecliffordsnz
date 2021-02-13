@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: The Cliffords
 description: A homepage for a family in Christchurch, New Zealand
+github:
+  is_project_page: false
